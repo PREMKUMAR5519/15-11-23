@@ -1,0 +1,5 @@
+.flex {
+  padding-left: 30px;
+  display: flex;
+  width: 100%;
+}
